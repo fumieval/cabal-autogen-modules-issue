@@ -5,7 +5,7 @@ build-type:          Simple
 category:            Test
 maintainer:          Fumiaki Kinoshita <fumiexcel@gmail.com>
 synopsis:            test package
-description:         test package
+description:         test package...
 license:             BSD-3-Clause
 
 library
