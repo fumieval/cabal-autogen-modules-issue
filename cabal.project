@@ -1,0 +1,5 @@
+packages: .
+source-repository-package
+    type: git
+    location: https://github.com/awakesecurity/proto3-suite.git
+    tag: 79b6773f02e179184100200b84594af22b663f8c
