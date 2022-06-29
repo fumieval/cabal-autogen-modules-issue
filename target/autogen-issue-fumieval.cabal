@@ -8,6 +8,9 @@ synopsis:            test package
 description:         test package...
 license:             BSD-3-Clause
 
+extra-source-files:
+  src/.gitignore
+
 library
   build-depends:       base >=4.13 && <5
   hs-source-dirs:      src
